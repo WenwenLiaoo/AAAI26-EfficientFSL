@@ -1,0 +1,8 @@
+avalanche-lib==0.3.1
+timm==0.4.12
+loguru
+
+conda install h5py -y
+
+conda install ipython -y
+
